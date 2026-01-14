@@ -61,8 +61,22 @@ This enables memory-aware, personalized responses instead of stateless LLM outpu
 
 ---
 
+
+
 ## Project Structure
 <img width="433" height="502" alt="image" src="https://github.com/user-attachments/assets/90c516ae-80c6-4f60-8c54-7c459cee5f90" />
+
+## Project: 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/24ca2e3c-bf50-4d86-9e9d-37410532616d" width="48%" />
+  <img src="https://github.com/user-attachments/assets/609ea9de-7230-4302-8b13-caca0821ac9f" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd69c1bc-73dc-407a-af0e-c3b9c73e9d84" width="48%" />
+  <img src="https://github.com/user-attachments/assets/bedb5d11-70f3-40d2-853f-91e12859e7e2" width="48%" />
+</p>
+
 
 ---
 
